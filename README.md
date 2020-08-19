@@ -1,0 +1,1 @@
+https://github.com/rosi1124/spring-cloud.git
